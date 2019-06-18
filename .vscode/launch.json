@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - meetings",
+            "request": "launch",
+            "mainClass": "meetingRoomsRequired2/meetingRoomsRequired2.meetings",
+            "projectName": "meetingRoomsRequired2"
+        }
+    ]
+}
